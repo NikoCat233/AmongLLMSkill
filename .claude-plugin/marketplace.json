@@ -1,0 +1,17 @@
+{
+  "name": "amongllm",
+  "owner": {
+    "name": "NikoCat233"
+  },
+  "metadata": {
+    "description": "Claude Code plugin marketplace for AmongLLM",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "amongllm",
+      "source": "./",
+      "description": "A skill to collaborate with AmongLLM, used to help develop among us mods."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "amongllm",
+  "description": "A skill to collaborate with AmongLLM, used to help develop among us mods.",
+  "version": "0.1.0",
+  "author": {
+    "name": "NikoCat233"
+  },
+  "homepage": "https://github.com/NikoCat233/AmongLLMSkill",
+  "keywords": [
+    "among-us",
+    "llm",
+    "skill"
+  ]
+}
